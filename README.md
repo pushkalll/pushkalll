@@ -68,25 +68,45 @@ Motion · Generative visuals · Creative coding
 <br>
 
 <details>
-<summary><b>/ CURRENTLY</b></summary>
+<summary><b>/ NOW</b></summary>
 
 <br>
 
 <div align="center">
 
-`BUILDING`
-&nbsp;&nbsp;&nbsp;
-`LEARNING`
-&nbsp;&nbsp;&nbsp;
-`EXPERIMENTING`
-&nbsp;&nbsp;&nbsp;
-`QUESTIONING`
+### BUILDING
+
+Turning ideas into things that actually work.
+
+<br>
+
+### LEARNING
+
+Understanding the details behind the tools.
+
+<br>
+
+### EXPLORING
+
+Interfaces · Visual systems · Creative coding
+
+<br><br>
+
+<sub>curious → build → break → understand → repeat</sub>
 
 </div>
 
 <br>
 
 </details>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4500&pause=2500&color=777777&center=true&vCenter=true&width=600&height=25&lines=ideas+are+cheap.;making+them+interesting+is+the+fun+part." />
+
+</div>
 
 <br>
 
@@ -142,6 +162,6 @@ Git · GitHub · Figma · Affinity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4500&pause=2500&color=777777&center=true&vCenter=true&width=500&height=25&lines=Everything+is+intentional.+Probably." />
+<sub>Everything is intentional. Probably.</sub>
 
 </div>
