@@ -20,7 +20,7 @@
 
 </div>
 
-##  ABOUT
+## / ABOUT
 
 I'm a designer and developer interested in the space between  
 **“what if”** and **“oh.”**
@@ -36,94 +36,65 @@ usually with an unnecessary amount of curiosity.
 
 <br><br>
 
+## / CURRENTLY
+
+Trying to make simple things unnecessarily interesting.
+
+Still deciding if that's a bug or a feature.
+
+<br><br>
+
 <details>
 <summary><b>/ WHAT I DO</b></summary>
 
-<br>
+<br><br>
 
 <div align="center">
 
-**DESIGN**
+### DESIGN
 
 Interfaces · Visual systems · Interaction · Typography
 
 <br><br>
 
-**DEV**
+### DEV
 
 Web · Systems · Automation
 
 <br><br>
 
-**VISUAL R&D**
+### VISUAL R&D
 
 Motion · Generative visuals · Creative coding
 
 </div>
 
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>/ NOW</b></summary>
-
-<br>
-
-<div align="center">
-
-### BUILDING
-
-Turning ideas into things that actually work.
-
-<br>
-
-### LEARNING
-
-Understanding the details behind the tools.
-
-<br>
-
-### EXPLORING
-
-Interfaces · Visual systems · Creative coding
-
 <br><br>
 
-<sub>curious → build → break → understand → repeat</sub>
-
-</div>
-
-<br>
-
 </details>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4500&pause=2500&color=777777&center=true&vCenter=true&width=600&height=25&lines=ideas+are+cheap.;making+them+interesting+is+the+fun+part." />
-
-</div>
 
 <br>
 
 <details>
 <summary><b>/ STACK</b></summary>
 
-<br>
+<br><br>
 
 <div align="center">
 
-**JavaScript** · **Python** · **Java** · **HTML** · **CSS**
+**LANGUAGES**
+
+JavaScript · Python · Java · HTML · CSS
 
 <br><br>
+
+**FRAMEWORKS**
 
 React · Vite
 
 <br><br>
+
+**TOOLS**
 
 Git · GitHub · Figma · Affinity
 
@@ -133,7 +104,7 @@ Git · GitHub · Figma · Affinity
 
 </div>
 
-<br>
+<br><br>
 
 </details>
 
@@ -142,7 +113,7 @@ Git · GitHub · Figma · Affinity
 <details>
 <summary><b>/ ACTIVITY</b></summary>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -154,7 +125,7 @@ Git · GitHub · Figma · Affinity
 
 </div>
 
-<br>
+<br><br>
 
 </details>
 
@@ -162,6 +133,12 @@ Git · GitHub · Figma · Affinity
 
 <div align="center">
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
 <sub>Everything is intentional. Probably.</sub>
+
+<br><br>
 
 </div>
