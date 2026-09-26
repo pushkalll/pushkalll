@@ -43,10 +43,6 @@ usually with an unnecessary amount of curiosity.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=900&color=888888&center=true&vCenter=true&width=500&height=25&lines=designing+%2F+building+%2F+visualizing" />
-
-<br><br>
-
 **DESIGN**
 
 Interfaces · Visual systems · Interaction · Typography
@@ -78,22 +74,12 @@ Motion · Generative visuals · Creative coding
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=900&color=888888&center=true&vCenter=true&width=500&height=25&lines=building+%2F+learning+%2F+breaking+%2F+rebuilding" />
-
-<br><br>
-
 `BUILDING`
-
-&nbsp;&nbsp; · &nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 `LEARNING`
-
-&nbsp;&nbsp; · &nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 `EXPERIMENTING`
-
-&nbsp;&nbsp; · &nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 `QUESTIONING`
 
 </div>
@@ -111,31 +97,19 @@ Motion · Generative visuals · Creative coding
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=900&color=888888&center=true&vCenter=true&width=500&height=25&lines=tools+for+turning+ideas+into+things" />
+**JavaScript** · **Python** · **Java** · **HTML** · **CSS**
 
 <br><br>
-
-**LANGUAGES**
-
-JavaScript · Python · Java · HTML · CSS
-
-<br><br>
-
-**FRAMEWORKS**
 
 React · Vite
 
 <br><br>
 
-**TOOLS**
-
 Git · GitHub · Figma · Affinity
 
 <br><br>
 
-**EXPLORING**
-
-UI/UX · Creative Coding · Visual Systems
+<sub>UI/UX · Creative Coding · Visual Systems</sub>
 
 </div>
 
@@ -148,13 +122,9 @@ UI/UX · Creative Coding · Visual Systems
 <details>
 <summary><b>/ ACTIVITY</b></summary>
 
-<br><br>
+<br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=900&color=888888&center=true&vCenter=true&width=500&height=25&lines=watching+the+code+move" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkal&bg_color=050505&color=CFCFCF&line=777777&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
@@ -172,6 +142,6 @@ UI/UX · Creative Coding · Visual Systems
 
 <div align="center">
 
-<sub>Everything is intentional. Probably.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4500&pause=2500&color=777777&center=true&vCenter=true&width=500&height=25&lines=Everything+is+intentional.+Probably." />
 
 </div>
