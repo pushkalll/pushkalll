@@ -3,7 +3,7 @@
 ## **DESIGNER · DEV · VISUAL R&D**
 <br>
 
-<sub><h6>Everything is intentional. Probably.</h6></sub>
+> *Everything is intentional. Probably.*
 
 <br>
 
@@ -23,25 +23,28 @@ I'm a designer and developer interested in the space between **“what if”** a
 
 I work across interfaces, visual systems, interaction, motion, and code — usually with an unnecessary amount of curiosity.
 
-> *Overengineering the obvious since 2008.*
+> *Overengineering the obvious since [2008].*
 
 <br>
 
 ### 02 ⁄ CURRENTLY
 
-Trying to make simple things unnecessarily interesting.  
-*Still deciding if that's a bug or a feature.*
+Trying to make simple things unnecessarily interesting. 
+
+Still deciding if that's a bug or a feature.
 
 <br>
 
 ### 03 ⁄ ARSENAL
 
-| `DOMAIN` | `STACK` |
-| :--- | :--- |
-| **LANGUAGES** | JavaScript · Python · Java · C++ · HTML · CSS |
-| **FRAMEWORKS** | React · Vite |
-| **TOOLS** | Git · GitHub · Figma · Affinity |
-| **FOCUS** | UI/UX · Creative Coding · Visual Systems |
+**⊛ LANGUAGES**
+> `JavaScript` ⁄ `Python` ⁄ `Java` ⁄ `C++` ⁄ `HTML` ⁄ `CSS`
+
+**⊛ FRAMEWORKS & ENV**
+> `React` ⁄ `Vite` ⁄ `macOS` ⁄ `VS Code` ⁄ `Git`
+
+**⊛ DESIGN & R&D**
+> `Figma` ⁄ `Affinity` ⁄ `UI/UX` ⁄ `Creative Coding` ⁄ `Visual Systems`
 
 <br>
 
