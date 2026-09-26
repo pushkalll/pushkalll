@@ -1,21 +1,22 @@
-<div align="left">
+<div align="center">
 
-## **DESIGNER · DEV · VISUAL R&D**
-<br>
-
-> *Everything is intentional. Probably.*
+<img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=500&size=36&duration=4000&pause=1800&color=F2F2F2&center=true&vCenter=true&width=700&height=70&lines=DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%26D" alt="DESIGNER · DEV · VISUAL R&D" />
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-050505?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/744876754266751017)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-sushanth-02267b409/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-050505?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/evilsemicolon)
+<sub>Everything is intentional. Probably.</sub>
+
+<br><br>
+
+[![Discord](https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/744876754266751017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-sushanth-02267b409/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-050505?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/evilsemicolon)
 
 </div>
 
-<br>
+<br><br>
 
----
+<div align="left">
 
 ### 01 ⁄ ABOUT
 
@@ -38,13 +39,15 @@ Still deciding if that's a bug or a feature.
 ### 03 ⁄ ARSENAL
 
 **⊛ LANGUAGES**
-> `JavaScript` ⁄ `Python` ⁄ `Java` ⁄ `C++` ⁄ `HTML` ⁄ `CSS`
+> <img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=white" />
 
 **⊛ FRAMEWORKS & ENV**
-> `React` ⁄ `Vite` ⁄ `macOS` ⁄ `VS Code` ⁄ `Git`
+> <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-050505?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/macOS-050505?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=white" />
 
 **⊛ DESIGN & R&D**
-> `Figma` ⁄ `Affinity` ⁄ `UI/UX` ⁄ `Creative Coding` ⁄ `Visual Systems`
+> <img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Affinity-050505?style=for-the-badge&logo=affinity&logoColor=white" /> <img src="https://img.shields.io/badge/UI%2FUX-050505?style=for-the-badge" /> <img src="https://img.shields.io/badge/Creative_Coding-050505?style=for-the-badge" /> 
+
+</div>
 
 <br>
 
@@ -61,10 +64,14 @@ Still deciding if that's a bug or a feature.
 </div>
 </details>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
 <sub>⌘ Everything is intentional. Probably.</sub>
+
 </div>
