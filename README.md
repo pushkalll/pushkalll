@@ -20,7 +20,7 @@
 
 </div>
 
-## / ABOUT
+##  ABOUT
 
 I'm a designer and developer interested in the space between  
 **“what if”** and **“oh.”**
