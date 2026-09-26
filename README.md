@@ -1,146 +1,68 @@
-<div align="center">
+<div align="left">
 
+# ✱ PUSHKAL
+
+**DESIGNER · DEV · VISUAL R&D**
 <br>
-
-### DESIGNER · DEV · VISUAL R&D
-
 <sub>Everything is intentional. Probably.</sub>
 
-<br><br>
+<br>
 
-[**DISCORD**](https://discord.com/users/744876754266751017)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**LINKEDIN**](https://www.linkedin.com/in/pushkal-sushanth-02267b409/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**CODECHEF**](https://www.codechef.com/users/evilsemicolon)
-
-<br><br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[![Discord](https://img.shields.io/badge/Discord-050505?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/744876754266751017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkal-sushanth-02267b409/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-050505?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/evilsemicolon)
 
 </div>
 
-##  ABOUT
+<br>
 
-I'm a designer and developer interested in the space between  
-**“what if”** and **“oh.”**
+---
+
+### 01 ⁄ ABOUT
+
+I'm a designer and developer interested in the space between **“what if”** and **“oh.”**
+
+I work across interfaces, visual systems, interaction, motion, and code — usually with an unnecessary amount of curiosity.
+
+> *Overengineering the obvious since 2008.*
 
 <br>
 
-I work across interfaces, visual systems, interaction, motion, and code —  
-usually with an unnecessary amount of curiosity.
+### 02 ⁄ CURRENTLY
+
+Trying to make simple things unnecessarily interesting.  
+*Still deciding if that's a bug or a feature.*
 
 <br>
 
-*Overengineering the obvious since [2008].*
+### 03 ⁄ ARSENAL
 
-<br><br>
+| `DOMAIN` | `STACK` |
+| :--- | :--- |
+| **LANGUAGES** | JavaScript · Python · Java · C++ · HTML · CSS |
+| **FRAMEWORKS** | React · Vite |
+| **TOOLS** | Git · GitHub · Figma · Affinity |
+| **FOCUS** | UI/UX · Creative Coding · Visual Systems |
 
-##  CURRENTLY
+<br>
 
-Trying to make simple things unnecessarily interesting.
-
-Still deciding if that's a bug or a feature.
-
-<br><br>
-
-<div align="center">
+### 04 ⁄ METRICS
 
 <details>
-<summary><b>/ WHAT I DO</b></summary>
-
-<br><br>
+<summary><b>↳ View Activity & Stats</b></summary>
+<br>
 
 <div align="center">
-
-### DESIGN
-
-Interfaces · Visual systems · Interaction · Typography
-
-<br><br>
-
-### DEV
-
-Web · Systems · Automation
-
-<br><br>
-
-### VISUAL R&D
-
-Motion · Generative visuals · Creative coding
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkal&bg_color=050505&color=CFCFCF&line=777777&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushkal&show_icons=true&hide_border=true&bg_color=050505&title_color=F2F2F2&text_color=999999&icon_color=CFCFCF&rank_icon=github" width="60%"/>
 </div>
-
-<br><br>
-
 </details>
 
 <br>
 
-<details>
-<summary><b>/ STACK</b></summary>
-
-<br><br>
+---
 
 <div align="center">
-
-**LANGUAGES**
-
-JavaScript · Python · Java · HTML · CSS
-
-<br><br>
-
-**FRAMEWORKS**
-
-React · Vite
-
-<br><br>
-
-**TOOLS**
-
-Git · GitHub · Figma · Affinity
-
-<br><br>
-
-<sub>UI/UX · Creative Coding · Visual Systems</sub>
-
-</div>
-
-<br><br>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>/ ACTIVITY</b></summary>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkal&bg_color=050505&color=CFCFCF&line=777777&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pushkal&show_icons=true&hide_border=true&bg_color=050505&title_color=F2F2F2&text_color=999999&icon_color=CFCFCF&rank_icon=github" width="48%"/>
-
-</div>
-
-<br><br>
-
-</details>
-
-<br><br>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br><br>
-
-<sub>Everything is intentional. Probably.</sub>
-
-<br><br>
-
+<sub>⌘ Everything is intentional. Probably.</sub>
 </div>
