@@ -20,7 +20,7 @@
 
 </div>
 
-## / ABOUT
+##  ABOUT
 
 I'm a designer and developer interested in the space between  
 **“what if”** and **“oh.”**
@@ -36,13 +36,15 @@ usually with an unnecessary amount of curiosity.
 
 <br><br>
 
-## / CURRENTLY
+##  CURRENTLY
 
 Trying to make simple things unnecessarily interesting.
 
 Still deciding if that's a bug or a feature.
 
 <br><br>
+
+<div align="center">
 
 <details>
 <summary><b>/ WHAT I DO</b></summary>
