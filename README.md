@@ -1,10 +1,9 @@
 <div align="left">
 
-# ✱ PUSHKAL
-
-**DESIGNER · DEV · VISUAL R&D**
+## **DESIGNER · DEV · VISUAL R&D**
 <br>
-<sub>Everything is intentional. Probably.</sub>
+
+<sub><h6>Everything is intentional. Probably.</h6></sub>
 
 <br>
 
