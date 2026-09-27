@@ -8,9 +8,11 @@
 <a href="https://www.linkedin.com/in/pushkal-sushanth-02267b409/"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23FFFFFF" width="26" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/evilsemicolon"><img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="26" alt="CodeChef" /></a>
 
-<br>
+<br><br>
 
-<a href="https://github.com/pushkalll?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" /></a>
+<a href="https://github.com/pushkalll?tab=repositories">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="22" align="absmiddle" alt="GitHub Logo" /><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=14&duration=1&pause=1000000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=160&height=28&lines=VIEW+REPOSITORIES" align="absmiddle" alt="VIEW REPOSITORIES" />
+</a>
 
 </div>
 
