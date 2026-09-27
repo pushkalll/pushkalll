@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=500&size=36&duration=4000&pause=4000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%26D;DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%26D" alt="DESIGNER · DEV · VISUAL R&D" />
+<img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=500&size=30&duration=4000&pause=4000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=65&lines=DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%EF%BC%86D;DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%EF%BC%86D" alt="DESIGNER · DEV · VISUAL R&D" />
 
 <br>
-
-<sub>Everything is intentional. Probably.</sub>
-
-<br><br>
 
 <a href="https://discord.com/users/744876754266751017"><img src="https://cdn.simpleicons.org/discord/FFFFFF" width="26" alt="Discord" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pushkal-sushanth-02267b409/"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23FFFFFF" width="26" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,21 +48,6 @@ Still deciding if that's a bug or a feature.
 > &nbsp; <img src="https://cdn.simpleicons.org/figma/FFFFFF" width="26" alt="Figma" /> &nbsp;&nbsp;&nbsp; <code>UI/UX</code> &nbsp;&nbsp;&nbsp; <code>Creative Coding</code> 
 
 </div>
-
-<br>
-
-### 04 ⁄ METRICS
-
-<details>
-<summary><b>↳ View Activity & Stats</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkal&bg_color=050505&color=CFCFCF&line=777777&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushkal&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&rank_icon=github" width="60%"/>
-</div>
-</details>
 
 <br><br>
 
