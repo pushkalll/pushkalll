@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=500&size=30&duration=4000&pause=4000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=65&lines=DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%EF%BC%86D;DESIGNER+%C2%B7+DEV+%C2%B7+VISUAL+R%EF%BC%86D" alt="DESIGNER · DEV · VISUAL R&D" />
+<img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=500&size=30&duration=4000&pause=4000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=65&lines=designer+%C2%B7+dev+%C2%B7+visual+R%26D" alt="designer · dev · visual R&D" />
 
 <br>
 
